@@ -39,7 +39,10 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ## What I learned
 
 * Usage of **flex** layout's properties in css.
-* Html semantic
+* Used HTML5 semantic elements for better accessability and readability.
+* Used Git and GitHub for project management.
+* Used media queries for responsive design.
+* Tried to maintain clean code.
 
 <br>
 
